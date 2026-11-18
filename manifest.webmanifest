@@ -1,6 +1,6 @@
 {
   "name": "My Life — Personal Tracker",
-  "short_name": "My Life",
+  "short_name": "My Life.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -8,6 +8,11 @@
   "theme_color": "#ffffff",
   "lang": "th",
   "icons": [
+    {
+      "src": "icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
     {
       "src": "icons/icon-192.png",
       "sizes": "192x192",
